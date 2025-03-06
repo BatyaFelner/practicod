@@ -1,0 +1,6 @@
+# Ignore bin and obj directories
+bin/
+obj/
+
+# Ignore Visual Studio files
+.vs/
