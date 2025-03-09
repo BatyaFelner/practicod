@@ -68,7 +68,7 @@
             },
             "Microsoft.IdentityModel.Tokens": {
               "target": "Package",
-              "version": "[8.6.0, )"
+              "version": "[7.0.0, )"
             },
             "Pomelo.EntityFrameworkCore.MySql": {
               "target": "Package",
@@ -80,7 +80,7 @@
             },
             "System.IdentityModel.Tokens.jwt": {
               "target": "Package",
-              "version": "[8.6.0, )"
+              "version": "[7.0.0, )"
             }
           },
           "imports": [
