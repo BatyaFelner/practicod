@@ -17,7 +17,7 @@ axios.interceptors.response.use(
 export default {
   getTasks: async () => {
     const result = await axios.get(`${apiUrl}/`)  
-    console.log("API Error:", result.data); 
+    console.log("helo:", result.data); 
   
     return result.data;
   },
