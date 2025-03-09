@@ -2,12 +2,12 @@ import axios from 'axios';
 
 const apiUrl = process.env.REACT_APP_API_URL;
 axios.defaults.baseURL = apiUrl;
+console.log(process.env.REACT_APP_API_URL)
+
 axios.interceptors.response.use(
   response => response, 
   error => {
-    console.error("hi"); 
     console.log("nituv:",process.env.REACT_APP_API_URL); 
-    console.error("nituv:",process.env.REACT_APP_API_URL); 
     console.log(process.env.REACT_APP_API_URL)
 
     console.error("API Error:", error.response.status,error.response.data); 
@@ -22,7 +22,7 @@ export default {
     return result.data;
   },
   getTasks: async () => {
-    const result = await axios.get(`${apiUrl}/items`)    
+    const result = await axios.get(`${apiUrl}items`)    
     return result.data;
   },
 
