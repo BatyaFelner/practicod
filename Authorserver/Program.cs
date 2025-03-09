@@ -130,7 +130,7 @@ app.UseCors("AllowAll");
 //     return new { Token = tokenString };
 // }
 
-
+app.MapGet("/", () => "helo!!");
 app.MapGet("/items", async (ToDoDbContext db) => await db.Items.ToListAsync());
 
 app.MapPost("/items", async (ToDoDbContext db,   string Name) =>
