@@ -4,3 +4,5 @@ obj/
 
 # Ignore Visual Studio files
 .vs/
+
+.fake
