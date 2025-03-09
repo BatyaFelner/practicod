@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "K8O7ig5SSb1NeSd2CoSP+PvmzOmTDthCbUPlKXpK2V8cIqWABfKxd+VYYToLoCY21ZaTBPC+CS9MBxdjDSQnmA==",
+  "dgSpecHash": "ewgB5MPFcyuH5WHszzWQIF+3mbV7T/6lMJQdKCEaGtnfYbPE1irc0S9v8VsA+tsEhyBOiT8ZypNPf32l3Qbe2g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\This User\\Desktop\\לימודים\\פרקטיקוד\\practicode3'\\TodoApi\\Authorserver\\TodoApi.csproj",
+  "projectFilePath": "C:\\Users\\This User\\Desktop\\לימודים\\פרקטיקוד\\פרקטיקוד 4\\practicod\\Authorserver\\TodoApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\This User\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\This User\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\7.0.0\\microsoft.aspnetcore.authentication.jwtbearer.7.0.0.nupkg.sha512",

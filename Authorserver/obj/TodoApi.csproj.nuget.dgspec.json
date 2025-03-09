@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\This User\\Desktop\\לימודים\\פרקטיקוד\\practicode3'\\TodoApi\\Authorserver\\TodoApi.csproj": {}
+    "C:\\Users\\This User\\Desktop\\לימודים\\פרקטיקוד\\פרקטיקוד 4\\practicod\\Authorserver\\TodoApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\This User\\Desktop\\לימודים\\פרקטיקוד\\practicode3'\\TodoApi\\Authorserver\\TodoApi.csproj": {
+    "C:\\Users\\This User\\Desktop\\לימודים\\פרקטיקוד\\פרקטיקוד 4\\practicod\\Authorserver\\TodoApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\This User\\Desktop\\לימודים\\פרקטיקוד\\practicode3'\\TodoApi\\Authorserver\\TodoApi.csproj",
+        "projectUniqueName": "C:\\Users\\This User\\Desktop\\לימודים\\פרקטיקוד\\פרקטיקוד 4\\practicod\\Authorserver\\TodoApi.csproj",
         "projectName": "TodoApi",
-        "projectPath": "C:\\Users\\This User\\Desktop\\לימודים\\פרקטיקוד\\practicode3'\\TodoApi\\Authorserver\\TodoApi.csproj",
+        "projectPath": "C:\\Users\\This User\\Desktop\\לימודים\\פרקטיקוד\\פרקטיקוד 4\\practicod\\Authorserver\\TodoApi.csproj",
         "packagesPath": "C:\\Users\\This User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\This User\\Desktop\\לימודים\\פרקטיקוד\\practicode3'\\TodoApi\\Authorserver\\obj\\",
+        "outputPath": "C:\\Users\\This User\\Desktop\\לימודים\\פרקטיקוד\\פרקטיקוד 4\\practicod\\Authorserver\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
