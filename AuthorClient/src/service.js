@@ -12,6 +12,8 @@ axios.interceptors.response.use(
 
     console.error("API Error:", error.response.status,error.response.data); 
     return Promise.reject(error); 
+    const result =  axios.get(`${apiUrl}/`)  
+    console.log("helo:", result.data); 
   }
 );
 export default {
