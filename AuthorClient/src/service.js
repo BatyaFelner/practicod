@@ -30,20 +30,20 @@ export default {
 
   addTask: async(name)=>{
     console.log('addTask', name)
-      const result = await axios.post(`${apiUrl}/items?Name=${name}`);
+      const result = await axios.post(`${apiUrl}items?Name=${name}`);
       return result.data;
     }
   ,
 
   setCompleted: async (id, isComplete) => {
     debugger
-const result = await axios.put(`${apiUrl}/items/${id}?IsComplete=${isComplete}`);
+const result = await axios.put(`${apiUrl}items/${id}?IsComplete=${isComplete}`);
 debugger
     return result.data;
   },
   deleteTask:async(id)=>{
     debugger
     console.log('deleteTask')
-    await axios.delete(`${apiUrl}/items/${id}`);
+    await axios.delete(`${apiUrl}items/${id}`);
   }
 };
